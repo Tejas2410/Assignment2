@@ -1,4 +1,4 @@
-//Making folder naming ipl 2020
+
 
 const fs = require("fs");
 const cheerio  = require("cheerio");
